@@ -1,0 +1,314 @@
+{
+  "site": {
+    "shortName": "LPEQ",
+    "name": "Liga Protectora de Estudiantes de Quilpué",
+    "address": "Los Carrera N° 1212",
+    "phone": "2914124",
+    "legalStatus": "Personalidad Jurídica N° 3972 / 22.08.1947",
+    "cityDate": "Quilpué, noviembre de 2025",
+    "heroTag": "Educación, comunidad y apoyo local",
+    "heroTitle": "Una red que acompaña trayectorias educativas en Quilpué.",
+    "heroSummary": "La Liga Protectora de Estudiantes de Quilpué articula ayuda material, gestión y presencia institucional para fortalecer la permanencia y el desarrollo educativo de estudiantes de la comuna.",
+    "heroPrimaryCta": {
+      "label": "Ver impacto 2025",
+      "href": "#impacto"
+    },
+    "heroSecondaryCta": {
+      "label": "Explorar plan 2026",
+      "href": "#plan"
+    },
+    "footerSummary": "Institución orientada a apoyar a estudiantes de establecimientos de educación municipalizada de Quilpué mediante aportes materiales, gestión y presencia institucional."
+  },
+  "intro": {
+    "kicker": "I. Introducción",
+    "title": "Cuenta anual del directorio",
+    "paragraphs": [
+      "Cumpliendo con lo establecido en el artículo 12 del Título III de sus estatutos, la Liga somete a la consideración de la Asamblea General Ordinaria de Socios la cuenta anual del directorio que condujo la institución durante 2025.",
+      "La memoria refleja las actividades realizadas para contribuir con estudiantes de establecimientos de educación municipalizada de Quilpué, mediante elementos y acciones que faciliten su asistencia o desarrollo pedagógico."
+    ]
+  },
+  "administration": {
+    "kicker": "II. Antecedentes administrativos",
+    "title": "Estructura y funcionamiento",
+    "paragraphs": [
+      "El directorio vigente corresponde a la elección realizada el 17 de noviembre de 2022.",
+      "Las reuniones de directorio se programaron para los jueves a las 19:00 horas y durante el año se realizaron ocho sesiones.",
+      "La Asamblea General de Socios consideró la presentación de la Memoria Anual 2025 y el Plan de Actividades 2026 para el período siguiente."
+    ],
+    "stats": [
+      {
+        "value": "8",
+        "label": "reuniones de directorio realizadas durante 2025"
+      },
+      {
+        "value": "1",
+        "label": "asamblea general para memoria y planificación"
+      },
+      {
+        "value": "59",
+        "label": "socios informados al 31 de diciembre"
+      },
+      {
+        "value": "50",
+        "label": "socios activos con participación regular durante 2025"
+      }
+    ],
+    "membership": [
+      {
+        "tag": "Socios activos",
+        "title": "52 integrantes",
+        "copy": "Corresponden a la base principal de participación y colaboración institucional."
+      },
+      {
+        "tag": "Socios exentos",
+        "title": "7 integrantes",
+        "copy": "Exentos por razones de edad y reconocidos dentro de la comunidad institucional."
+      },
+      {
+        "tag": "Socios voluntarios",
+        "title": "7 integrantes",
+        "copy": "Reconocidos por su valioso aporte sostenido a la institución."
+      }
+    ]
+  },
+  "board": {
+    "kicker": "Directorio 2025",
+    "title": "Equipo directivo",
+    "members": [
+      {
+        "role": "Presidente",
+        "name": "Raúl Lagos Albornoz"
+      },
+      {
+        "role": "Vicepresidente",
+        "name": "Ramiro Salazar Valle"
+      },
+      {
+        "role": "Secretario",
+        "name": "Leonardo Rojas Troncoso"
+      },
+      {
+        "role": "Prosecretario",
+        "name": "Julio Godoy Muñoz"
+      },
+      {
+        "role": "Tesorero",
+        "name": "Claudio Yáñez Mendoza"
+      },
+      {
+        "role": "Protesorero",
+        "name": "Marcelo Mendoza Medalla"
+      },
+      {
+        "role": "Director",
+        "name": "Selim Molina Bahamondes"
+      }
+    ]
+  },
+  "memory": {
+    "kicker": "III. Actividades 2025",
+    "title": "Trabajo institucional del año",
+    "paragraphs": [
+      "Durante 2025 la Liga mantuvo un trabajo sostenido en apoyo material a estudiantes y establecimientos, junto con acciones de coordinación, vinculación y relaciones públicas para ampliar su presencia en la comuna.",
+      "En cada entrega de beneficios participaron integrantes del directorio, reforzando el carácter comunitario y permanente del trabajo institucional."
+    ]
+  },
+  "materialSupport": {
+    "kicker": "1. Aportes materiales",
+    "title": "Beneficios directos a establecimientos educacionales",
+    "generalBenefits": [
+      "movilización estudiantil",
+      "ropa de abrigo",
+      "mochilas e insumos escolares",
+      "implementos de cocina y vestuario técnico",
+      "materiales inclusivos y de habilitación",
+      "repuestos para instrumentos musicales",
+      "reconocimientos y actividades de incentivo"
+    ],
+    "items": [
+      {
+        "tag": "CEIA",
+        "title": "Centro de Educación Integral de Adultos",
+        "description": [
+          "Aporte de dinero para movilización de estudiantes del establecimiento.",
+          "Se destaca que una parte importante del alumnado proviene del SENAME y que este apoyo facilita su traslado al centro educativo."
+        ]
+      },
+      {
+        "tag": "Mannheim",
+        "title": "Liceo Técnico Profesional Mannheim",
+        "description": [
+          "Entrega de ropa de abrigo para 7 alumnos de enseñanza media.",
+          "El apoyo incluyó primeras capas inferiores y superiores, calcetas y parkas impermeables.",
+          "Se agregó un desayuno para beneficiarios y profesores durante el acto de entrega."
+        ]
+      },
+      {
+        "tag": "Gastronomía y Turismo",
+        "title": "Liceo de Gastronomía y Turismo",
+        "description": [
+          "Apoyo a 10 estudiantes de tercero y cuarto medio.",
+          "El beneficio incluyó mochilas para la especialidad de Turismo e implementos de cocina y vestuario para Gastronomía.",
+          "Se sumó un desayuno para beneficiarios y profesores en el acto de entrega."
+        ]
+      },
+      {
+        "tag": "Renacimiento",
+        "title": "Escuela Especial de Desarrollo Renacimiento",
+        "description": [
+          "Aporte orientado a un establecimiento dedicado a la educación integral e inclusiva de estudiantes con discapacidad intelectual y trastorno del espectro autista.",
+          "Se entregaron insumos para preparación de pan, una selladora de alimentos, elementos de librería, medallas y un trofeo para un campeonato de fútbol realizado en el marco de su aniversario."
+        ]
+      },
+      {
+        "tag": "Theodor Heuss",
+        "title": "Escuela Básica Theodor Heuss",
+        "description": [
+          "Confección de 50 morrales con el logo del establecimiento y la leyenda “alumno destacado”.",
+          "Compra de 350 revistas con sopas de letras destinadas a reconocimientos mensuales por conducta, asistencia, participación y otros indicadores de desempeño."
+        ]
+      },
+      {
+        "tag": "Gronemeyer",
+        "title": "Liceo Artístico Guillermo Gronemeyer",
+        "description": [
+          "Incorporado por primera vez durante 2025.",
+          "El aporte consistió en repuestos para instrumentos musicales destinados al taller de esa especialidad."
+        ]
+      }
+    ]
+  },
+  "managementActions": {
+    "kicker": "2. Acciones de gestión",
+    "title": "Apoyo no económico y vinculación",
+    "items": [
+      {
+        "tag": "Cultura",
+        "circleTitle": "Presentaciones culturales",
+        "title": "Orquesta Marga Marga en Theodor Heuss",
+        "copy": "Coordinación de una presentación para estudiantes de la Escuela Básica Theodor Heuss durante agosto."
+      },
+      {
+        "tag": "Cultura",
+        "circleTitle": "Visitas formativas",
+        "title": "Museo Palacio Vergara",
+        "copy": "Coordinación de una visita al Museo de Bellas Artes Palacio Vergara para alumnos y apoderados, cerrando con una presentación de la Orquesta Marga Marga en octubre."
+      },
+      {
+        "tag": "PAES",
+        "circleTitle": "Preparación PAES",
+        "title": "Preparación universitaria con Fundación Azulillo",
+        "copy": "Gestión de clases de preparación PAES para 14 alumnos: 8 del CEIA, 4 del Liceo de Gastronomía y Turismo y 2 del Liceo Técnico Profesional Mannheim."
+      },
+      {
+        "tag": "Universidad",
+        "circleTitle": "Vinculación universitaria",
+        "title": "Vinculación con la Universidad de Valparaíso",
+        "copy": "Reunión sostenida el 3 de noviembre de 2025 con representantes de la Facultad de Ciencias Económicas y Administrativas para explorar ingresos especiales, charlas, visitas, jornadas abiertas y un eventual propedéutico para estudiantes de educación secundaria de los establecimientos apoyados."
+      }
+    ]
+  },
+  "publicRelations": {
+    "kicker": "3. Relaciones públicas",
+    "title": "Presencia institucional en la comunidad",
+    "items": [
+      "Premiación a alumnos destacados en la Escuela Básica Theodor Heuss.",
+      "Presentación de la Orquesta Marga Marga en el mismo establecimiento.",
+      "Quincuagésimo aniversario del Liceo Técnico Industrial Mannheim.",
+      "Trigésimo noveno aniversario de la Escuela Especial Renacimiento.",
+      "Premiación del campeonato de fútbol realizado con motivo del aniversario del mismo establecimiento.",
+      "Centésimo octogésimo aniversario del Colegio Manuel Bulnes Prieto."
+    ]
+  },
+  "plan2026": {
+    "kicker": "V. Plan de actividades 2026",
+    "title": "Expansión de cobertura y apoyo focalizado",
+    "paragraphs": [
+      "Durante 2026 la Liga proyecta aumentar los establecimientos beneficiarios desde 6 a 7, incorporando al Colegio Manuel Bulnes Prieto.",
+      "Los aportes estarán orientados, en general, a estudiantes propuestos por la dupla psicosocial de cada establecimiento. Existen además focos específicos: repuestos de instrumentos en el Liceo Artístico Guillermo Gronemeyer, habilitación de espacios en la Escuela Especial Renacimiento y apoyo en movilización para estudiantes del CEIA."
+    ],
+    "institutions": [
+      {
+        "name": "Liceo Técnico Mannheim"
+      },
+      {
+        "name": "Liceo de Gastronomía y Turismo"
+      },
+      {
+        "name": "Escuela Básica Theodor Heuss"
+      },
+      {
+        "name": "Liceo Artístico Guillermo Gronemeyer"
+      },
+      {
+        "name": "Colegio Manuel Bulnes Prieto"
+      },
+      {
+        "name": "Escuela Especial Renacimiento"
+      },
+      {
+        "name": "Centro de Educación Integral para Adultos de Quilpué"
+      }
+    ]
+  },
+  "treasury": {
+    "kicker": "IV. Tesorería",
+    "title": "Sostenibilidad institucional",
+    "paragraphs": [
+      "La memoria indica que el detalle administrativo y de sostenibilidad fue presentado ante la asamblea por el director tesorero, Claudio Yáñez Mendoza.",
+      "En este sitio se prioriza la síntesis institucional y la proyección de trabajo, manteniendo esa referencia como parte de la rendición anual."
+    ]
+  },
+  "incomeSources": {
+    "kicker": "VI. Fuentes de ingreso",
+    "title": "Sostenibilidad para 2026",
+    "items": [
+      {
+        "tag": "Socios activos",
+        "title": "Mantener la base de aportes regulares",
+        "copy": "Se busca sostener la continuidad del aporte de los socios activos durante el año."
+      },
+      {
+        "tag": "Beneficencia",
+        "title": "Mantener apoyos tradicionales de beneficencia",
+        "copy": "Se proyecta dar continuidad a mecanismos de aporte solidario ya instalados."
+      },
+      {
+        "tag": "Captación",
+        "title": "Campaña de socios cooperadores",
+        "copy": "Reimpulsar la campaña “uno más uno” para recuperar una base de socios colaboradores más amplia."
+      },
+      {
+        "tag": "Aporte adicional",
+        "title": "Débito automático mensual",
+        "copy": "Se espera ampliar el número de socios que realicen un aporte adicional y sostenido."
+      },
+      {
+        "tag": "Actividad especial",
+        "title": "Bingo Pro-Fondos en agosto",
+        "copy": "Se buscará repetir la experiencia de 2025, siempre que sea compatible con la planificación general del período."
+      },
+      {
+        "tag": "Solidaridad",
+        "title": "Reactivar Coronas de Caridad",
+        "copy": "Se plantea volver a posicionar esta fuente histórica de ingresos para la tesorería de la Liga."
+      },
+      {
+        "tag": "Aporte anual",
+        "title": "Definición del aporte 2026",
+        "copy": "La asamblea definirá la continuidad del aporte anual para el nuevo período."
+      }
+    ]
+  },
+  "closing": {
+    "kicker": "VII. Palabras al cierre",
+    "title": "Una tarea compartida en la comunidad",
+    "quote": "La Liga Protectora de Estudiantes de Quilpué busca proyectar una presencia activa, cercana y útil en la educación comunal.",
+    "author": "Mensaje final del directorio, Memoria Anual 2025",
+    "paragraphs": [
+      "El directorio declara sentirse contento con lo avanzado, aunque consciente de que todavía es posible hacer más tanto en apoyo material como en gestión institucional.",
+      "La memoria insiste en que la Liga debe ser asumida como una tarea compartida, dado que cada ayuda, taller o actividad pública proyecta una presencia concreta en la comunidad.",
+      "También se releva que, aunque el número de establecimientos beneficiados aún es acotado, durante los últimos años se ha mantenido una senda de crecimiento con nuevas incorporaciones y con la expectativa de seguir ampliando la cobertura."
+    ]
+  }
+}
